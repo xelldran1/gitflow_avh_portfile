@@ -4,7 +4,7 @@
 PortSystem              1.0
 PortGroup               github 1.0
 
-github.setup            petervanderdoes gitflow 1.5.3
+github.setup            petervanderdoes gitflow 1.6.0
 fetch.type              git
 
 name                    git-flow-avh
